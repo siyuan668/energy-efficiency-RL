@@ -1,6 +1,16 @@
 
 # Energy-Aware Bus Speed planning Using Deep Reinforcement Learning
 The implemnntation of Energy-Aware Bus Speed planning Using Deep Reinforcement Learning based on SUMO-RL.
+
+<p align="center">
+<img src="plots/total_energy_comsumption_plot.png "center" width="75%"/>
+</p>
+
+<p align="center">
+<img src="plots/speed_reward_plot.png "center" width="75%"/>
+</p>
+
+
 <!-- start intro -->
 
 SUMO-RL provides a simple interface to instantiate Reinforcement Learning (RL) environments with [SUMO](https://github.com/eclipse/sumo) for Traffic Signal Control.
