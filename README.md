@@ -3,7 +3,7 @@
 The implemnntation of Energy-Aware Bus Speed planning Using Deep Reinforcement Learning based on SUMO-RL.
 
 <p align="center">
-<img src="plots/total_energy_comsumption_plot.png "center" width="75%"/>
+<img src="plots/total_energy_consumption_plot.png "center" width="75%"/>
 </p>
 
 <p align="center">
